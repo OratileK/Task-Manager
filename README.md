@@ -17,7 +17,7 @@ If the user selects the third option, "va", to view all tasks, they are not prom
 
 Opting for the fifth menu choice, "gr", triggers the execution of the sixth function defined earlier in the program. This function generates two new external text files: "task_overview.txt" and "user_overview.txt". These files store relevant information and statistics regarding tasks and user data. Upon successful generation of the reports, the user receives a message indicating the completion of the process.
 
-Only the "admin" user has access to the "ds" option in their menu, which allows them to view the reports generated in the previous menu option. If the previous option has not been chosen yet, the text files are first created, followed by the display of comprehensive reports containing relevant statistics in a clear and readable format.
+Only the "admin" user has access to the "s" option in their menu, which allows them to view the reports generated in the previous menu option. If the previous option has not been chosen yet, the text files are first created, followed by the display of comprehensive reports containing relevant statistics in a clear and readable format.
 
 # How To Use It?
 To utilize the Task Manager program, you need to clone the repository containing the program and related text files into a local repository on your computer. This enables you to access and run the program.
